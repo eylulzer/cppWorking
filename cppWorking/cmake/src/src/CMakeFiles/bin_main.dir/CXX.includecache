@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/eylul/c++Working/c++working/calismalar/cmake_proj/src/main.cpp
+iostream
+-
+hello.h
+-
+blah.h
+-
+
+blah.h
+iostream
+-
+
+hello.h
+iostream
+-
+

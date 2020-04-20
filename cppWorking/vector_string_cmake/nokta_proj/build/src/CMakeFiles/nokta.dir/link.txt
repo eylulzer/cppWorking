@@ -1,0 +1,2 @@
+/usr/bin/ar qc libnokta.a  CMakeFiles/nokta.dir/nokta.cpp.o
+/usr/bin/ranlib libnokta.a
