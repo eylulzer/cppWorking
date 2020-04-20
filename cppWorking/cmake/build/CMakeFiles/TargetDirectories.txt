@@ -1,0 +1,7 @@
+/home/eylul/c++Working/c++working/calismalar/cmake_proj/build/CMakeFiles/edit_cache.dir
+/home/eylul/c++Working/c++working/calismalar/cmake_proj/build/CMakeFiles/rebuild_cache.dir
+/home/eylul/c++Working/c++working/calismalar/cmake_proj/build/src/CMakeFiles/hello.dir
+/home/eylul/c++Working/c++working/calismalar/cmake_proj/build/src/CMakeFiles/blah.dir
+/home/eylul/c++Working/c++working/calismalar/cmake_proj/build/src/CMakeFiles/edit_cache.dir
+/home/eylul/c++Working/c++working/calismalar/cmake_proj/build/src/CMakeFiles/bin_main.dir
+/home/eylul/c++Working/c++working/calismalar/cmake_proj/build/src/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/eylul/Desktop/nokta_proj/src/nokta.cpp
+nokta.h
+/home/eylul/Desktop/nokta_proj/src/nokta.h
+boost/algorithm/string.hpp
+/home/eylul/Desktop/nokta_proj/src/boost/algorithm/string.hpp
+
+/home/eylul/Desktop/nokta_proj/src/nokta.h
+string
+-
+vector
+-
+strings.h
+-
+iostream
+-
+stdlib.h
+-
+sstream
+-
+boost/algorithm/string.hpp
+/home/eylul/Desktop/nokta_proj/src/boost/algorithm/string.hpp
+
