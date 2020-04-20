@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/bin_main.dir/main.cpp.o  -o bin_main -rdynamic libhello.so libblah.so -Wl,-rpath,/home/eylul/c++Working/c++working/calismalar/cmake_proj/src/src 

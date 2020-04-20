@@ -1,0 +1,6 @@
+/home/eylul/Desktop/nokta_proj/src/CMakeFiles/edit_cache.dir
+/home/eylul/Desktop/nokta_proj/src/CMakeFiles/rebuild_cache.dir
+/home/eylul/Desktop/nokta_proj/src/src/CMakeFiles/edit_cache.dir
+/home/eylul/Desktop/nokta_proj/src/src/CMakeFiles/bin_main.dir
+/home/eylul/Desktop/nokta_proj/src/src/CMakeFiles/rebuild_cache.dir
+/home/eylul/Desktop/nokta_proj/src/src/CMakeFiles/nokta.dir
